@@ -3,6 +3,11 @@ name = "introtodeeplearning-labs"
 version = "0.1.0"
 description = "Intro to Deep Learning Labs"
 dependencies = [
+    "ipython>=8.36.0",
+    "matplotlib>=3.10.3",
+    "mitdeeplearning>=0.7.5",
+    "numpy>=2.1.3",
+    "opencv-python>=4.11.0.86",
     "tensorflow>=2.19.0",
     "torch>=2.7.0",
 ]
