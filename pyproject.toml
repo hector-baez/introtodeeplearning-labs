@@ -1,0 +1,13 @@
+[project]
+name = "introtodeeplearning-labs"
+version = "0.1.0"
+description = "Intro to Deep Learning Labs"
+dependencies = [
+    "tensorflow>=2.19.0",
+    "torch>=2.7.0",
+]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
