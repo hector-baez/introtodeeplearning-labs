@@ -874,6 +874,7 @@ dependencies = [
     { name = "opencv-python" },
     { name = "tensorflow" },
     { name = "torch" },
+    { name = "typing-extensions" },
 ]
 
 [package.metadata]
@@ -885,6 +886,7 @@ requires-dist = [
     { name = "opencv-python", specifier = ">=4.11.0.86" },
     { name = "tensorflow", specifier = ">=2.19.0" },
     { name = "torch", specifier = ">=2.7.0" },
+    { name = "typing-extensions", specifier = ">=4.13.2" },
 ]
 
 [[package]]
